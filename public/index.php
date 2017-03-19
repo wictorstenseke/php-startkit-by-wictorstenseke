@@ -17,6 +17,7 @@
         <?php include "../includes/pages/index-include.php" ?>
 
         <!-- import footer -->
+        <?php include "../includes/footer.php" ?>
 
         <!-- imports jQuery first, then Bootstrap JS, then project-specific functions -->
         <script type="text/javascript" src="/js/startkit.min.js"></script>
