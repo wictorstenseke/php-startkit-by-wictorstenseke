@@ -2,8 +2,9 @@
         <div class="row">
             <!-- navy-blue header -->
             <div class="col-xs-12 text-center banner-header">
-                <h1>PHP - Starkit&nbsp;🙌🏻</h1>
-                <p>Startkit som använder PHP och Bootstrap för att snabbt bygga en statisk hemsida.</p>
+                <h1>PHP - Starkit</h1>
+                <p>Startkit som använder PHP och Bootstrap för att snabbt bygga en hemsida.</p>
+                <h2>🙌🏻</h2>
             </div>
             <!-- explains the kit, emoji-symbols should not be used in production without proper testing -->
             <div class="project-stuff">
