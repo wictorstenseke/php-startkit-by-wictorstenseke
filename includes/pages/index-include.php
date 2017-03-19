@@ -5,7 +5,7 @@
                 <h1>PHP - Starkit&nbsp;🙌🏻</h1>
                 <p>Startkit som använder PHP och Bootstrap för att snabbt bygga en statisk hemsida.</p>
             </div>
-            <!-- explains the kit -->
+            <!-- explains the kit, emoji-symbols should not be used in production without proper testing -->
             <div class="project-stuff">
                 <div class="col-sm-4 text-center">
                     <h1>🚀</h1>
