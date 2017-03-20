@@ -2571,13 +2571,15 @@ button.close { -webkit-appearance: none; padding: 0; cursor: pointer; background
 @media print { .visible-print-inline-block { display: inline-block !important; } }
 @media print { .hidden-print { display: none !important; } }
 /*# sourceMappingURL=bootstrap.css.map */
-@media only screen and (min-width: 1180px) { h1 { text-transform: uppercase; } }
+@media only screen and (min-width: 1180px) { h1 { text-transform: uppercase; font-size: 20px; } }
 @media only screen and (min-width: 768px) and (max-width: 1179px) { h1 { text-transform: lowercase; } }
-@media only screen and (min-width: 425px) and (max-width: 767px) { h1 { text-transform: uppercase; } }
-@media only screen and (max-width: 424px) { h1 { text-transform: lowercase; } }
+@media only screen and (min-width: 425px) and (max-width: 767px) { h1 { text-transform: uppercase; }
+  p { font-size: 16px; line-height: 1.7 !important; } }
+@media only screen and (max-width: 424px) { h1 { text-transform: lowercase; }
+  p { font-size: 16px; line-height: 1.7 !important; } }
 html, body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: "Roboto Condensed", helvetica neue, helvetica, arial, sans-serif; font-size: 18px; }
 
-h1, h2, h3 { font-weight: 700; }
+h1, h2, h3 { font-weight: 700; color: #326C81; }
 
 h1 { font-size: 2.8em; }
 
@@ -2585,15 +2587,16 @@ h2 { font-size: 2.4em; }
 
 h3 { font-size: 2em; }
 
+p { color: #326C81; margin: 0 auto 12px auto; line-height: 1.5; }
+
 a:hover { text-decoration: none; }
 
-.banner-header { background-color: #326C81; height: 50vh; margin-bottom: 35px; }
-.banner-header h1 { margin-top: 18vh; color: #ffa500; }
+.banner-header { background-color: #326C81; height: 75vh; margin-bottom: 35px; }
+.banner-header h1 { margin-top: 30vh; color: #ffa500; }
 .banner-header p { color: #fcfcfc; }
 
-.project-stuff { color: #326C81; }
 .project-stuff p { text-align: center; max-width: 400px; margin: 20px auto; }
 
-.footer { color: #326C81; border-top: 1px solid #c8e1ea; height: 100px; display: flex; flex-direction: row; justify-content: center; align-items: center; }
+.footer { color: #326C81; border-top: 1px solid #c8e1ea; margin-top: 35px; height: 100px; display: flex; flex-direction: row; justify-content: center; align-items: center; }
 
 /*# sourceMappingURL=main.css.map */
