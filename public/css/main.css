@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
-@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
+@import url("https://fonts.googleapis.com/css?family=Nunito");
 html { font-family: sans-serif; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
 body { margin: 0; }
@@ -2577,7 +2577,7 @@ button.close { -webkit-appearance: none; padding: 0; cursor: pointer; background
   p { font-size: 16px; line-height: 1.7 !important; } }
 @media only screen and (max-width: 424px) { h1 { text-transform: lowercase; }
   p { font-size: 16px; line-height: 1.7 !important; } }
-html, body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: "Roboto Condensed", helvetica neue, helvetica, arial, sans-serif; font-size: 18px; }
+html, body { -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; font-family: "Nunito", helvetica neue, helvetica, arial, sans-serif; font-size: 18px; }
 
 h1, h2, h3 { font-weight: 700; color: #326C81; }
 
@@ -2589,7 +2589,7 @@ h3 { font-size: 2em; }
 
 p { color: #326C81; margin: 0 auto 12px auto; line-height: 1.5; }
 
-a:hover { text-decoration: none; }
+a:hover { text-decoration: none; font-weight: 700; }
 
 .banner-header { background-color: #326C81; height: 75vh; margin-bottom: 35px; }
 .banner-header h1 { margin-top: 30vh; color: #ffa500; }
