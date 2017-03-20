@@ -27,10 +27,13 @@
                     <p>Bestäm enkelt hur olika element skall se ut på olika enheter genom att använda olika <code>media queries</code> som är förberedda.</p>
                 </div>
             </div>
-            <div class="col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1">
+            <div class="col-md-6"> <!-- col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 -->
                 <h3>📝&nbsp;Typografi</h3>
                 <p>Alla paragrafer är redan stylade och anpassar sig efter den enhet som används. Använder du en mindre telefon ökar radavståndet lite för att förenkla läsbarheten.</p>
                 <p>Dessa ändrar du enkelt genom att antingen skriva i filen med <code>_media-queries.sass</code> eller i <code>_basestyle.sass</code> där all styling för återkommande element görs. <a href="https://fonts.google.com/">Google Fonts</a> används för att importera olika typsnitt. Detta heter <code>Nunito</code></p>
+            </div>
+            <div class="col-md-6">
+                <img style="padding: 25px; border-radius: 35px; overflow: hidden;" class="img-responsive" src="/img/typography.jpg" alt="Bild på gamla typsnittsmallar.">
             </div>
         </div><!-- /row -->
     </div><!-- /container -->
