@@ -33,7 +33,7 @@
             <div class="col-md-6"> <!-- col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 -->
                 <h3>📝&nbsp;Typografi</h3>
                 <p>Alla paragrafer är redan stylade och anpassar sig efter den enhet som används. Använder du en mindre telefon ökar radavståndet lite för att förenkla läsbarheten.</p>
-                <p>Dessa ändrar du enkelt genom att antingen skriva i filen med <code>_media-queries.sass</code> eller i <code>_basestyle.sass</code> där all styling för återkommande element görs. <a href="https://fonts.google.com/">Google Fonts</a> används för att importera olika typsnitt. Detta heter <code>Nunito</code></p>
+                <p>Dessa ändrar du enkelt genom att antingen skriva i filen med <code>_media-queries.sass</code> eller i <code>_basestyle.sass</code> där all styling för återkommande element görs. <a href="https://fonts.google.com/">Google Fonts</a> används för att importera olika typsnitt. Det typsnitt som används nu heter <code>Nunito</code>.</p>
             </div>
             <div class="col-md-6">
                 <img class="img-responsive" src="/img/typography.jpg" alt="Bild på gamla typsnittsmallar.">
