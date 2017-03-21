@@ -2594,7 +2594,7 @@ a:hover { text-decoration: none; }
 img { box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.25); border-radius: 2px; overflow: hidden; }
 
 .banner-header { background-color: #326C81; height: 75vh; margin-bottom: 35px; }
-.banner-header h1 { font-weight: 800; margin-top: 30vh; color: #ffa500; }
+.banner-header h1 { font-weight: 800; margin-top: 25vh; color: #ffa500; }
 .banner-header p { color: #fcfcfc; }
 
 .header-cta { margin-top: 35px; }
