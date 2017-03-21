@@ -6,6 +6,9 @@
                 <h1>PHP - Starkit</h1>
                 <p>Startkit som använder PHP och Bootstrap för att snabbt bygga en hemsida.</p>
                 <h2>🙌🏻</h2>
+                <a href="https://github.com/wictorstenseke/php-startkit-by-wictorstenseke" class="header-cta btn btn-lg btn-success" role="button">
+                <i class="fa fa-github" aria-hidden="true"></i>&nbsp;Se projektet på Github
+                </a>
             </div>
         </div><!-- /row -->
     </div><!-- /header-container -->
