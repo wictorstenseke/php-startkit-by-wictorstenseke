@@ -15,10 +15,10 @@
         <!-- import navbar -->
 
         <!-- import content -->
-        <?php include "../includes/pages/404-include.php" ?>
+        <?php include "../includes/pages/error_404-include.php" ?>
 
         <!-- import footer -->
-        <?php include "../includes/footer.php" ?>
+
 
         <!-- imports jQuery first, then Bootstrap JS, then project-specific functions -->
         <script type="text/javascript" src="/js/startkit.min.js"></script>
