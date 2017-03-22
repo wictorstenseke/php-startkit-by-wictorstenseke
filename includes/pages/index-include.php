@@ -9,7 +9,6 @@
                 <a href="https://github.com/wictorstenseke/php-startkit-by-wictorstenseke" class="header-cta btn btn-lg btn-success" role="button">
                 <i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Se projektet på Github
                 </a>
-                <a href="404.php" class="header-cta btn btn-lg btn-success" role="button">Ta mig till 404</a>
             </div>
         </div><!-- /row -->
     </div><!-- /header-container -->
