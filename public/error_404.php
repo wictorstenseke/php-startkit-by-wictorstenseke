@@ -3,7 +3,8 @@
     <head>
         <!-- import stuff for head -->
         <?php include "../includes/head.php" ?>
-
+        <!-- no google indexing this page -->
+        <meta name="robots" content="noindex">
         <!-- change if necessary to each site -->
         <title>404 | Sorry...</title>
 
