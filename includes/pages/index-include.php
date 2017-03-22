@@ -7,8 +7,9 @@
                 <p>Startkit som använder PHP och Bootstrap för att snabbt bygga en hemsida.</p>
                 <h2>🙌🏻</h2>
                 <a href="https://github.com/wictorstenseke/php-startkit-by-wictorstenseke" class="header-cta btn btn-lg btn-success" role="button">
-                <i class="fa fa-github" aria-hidden="true"></i>&nbsp;Se projektet på Github
+                <i class="fa fa-github" aria-hidden="true"></i>&nbsp;&nbsp;Se projektet på Github
                 </a>
+                <a href="404.php" class="header-cta btn btn-lg btn-success" role="button">Ta mig till 404</a>
             </div>
         </div><!-- /row -->
     </div><!-- /header-container -->
@@ -30,13 +31,14 @@
                     <p>Bestäm enkelt hur olika element skall se ut på olika enheter genom att använda olika <code>media queries</code> som är förberedda.</p>
                 </div>
             </div>
-            <div class="col-md-6"> <!-- col-sm-8 col-sm-offset-2 col-xs-10 col-xs-offset-1 -->
+            <div class="col-md-6">
                 <h3>📝&nbsp;Typografi</h3>
                 <p>Alla paragrafer är redan stylade och anpassar sig efter den enhet som används. Använder du en mindre telefon ökar radavståndet lite för att förenkla läsbarheten.</p>
-                <p>Dessa ändrar du enkelt genom att antingen skriva i filen med <code>_media-queries.sass</code> eller i <code>_basestyle.sass</code> där all styling för återkommande element görs. <a href="https://fonts.google.com/">Google Fonts</a> används för att importera olika typsnitt. Det typsnitt som används nu heter <code>Nunito</code>.</p>
+                <p>Dessa ändrar du enkelt genom att antingen skriva i filen med <code>_media-queries.sass</code> eller i <code>_basestyle.sass</code> där standardstyling för olika element görs. Detta kit använder <a href="https://fonts.google.com/">Google Fonts</a>  för att importera olika typsnitt.</p>
+                <p>Det typsnitt som används nu heter <code>Nunito</code> och detta ändrar du lätt genom att uppdatera länken högst upp i <code>_basestyle.sass</code> till det typsnitt som valts.</p>
             </div>
             <div class="col-md-6">
-                <img class="img-responsive" src="/img/typography.jpg" alt="Bild på gamla typsnittsmallar.">
+                <img class="img-responsive" src="/img/typography.jpg" alt="Bild på gammal skrivmaskin.">
             </div>
         </div><!-- /row -->
     </div><!-- /container -->
